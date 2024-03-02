@@ -8,4 +8,25 @@ I am eager to bring my drive for excellence and continuous improvement to my nex
 
 I am currently working as a remote freelance for Deep Learning related projects, mostly of them for people who want to create a startup. These are fun projects where I am applying most recent research in order to create cutting edge prototypes.
 
-[My online CV](http://jorgemf.github.io/cv.html)
+
+## 🌐 Links:
+
+[![LinkedIn](https://img.shields.io/badge/My_online_CV-00827F.svg?style=for-the-badge&logo=readdotcv&logoColor=white)](http://jorgemf.github.io/cv.html)
+[![LinkedIn](https://img.shields.io/badge/My_CV_PDF-F40F02.svg?style=for-the-badge&logo=readdotcv&logoColor=white)](http://jorgemf.github.io/cv.pdf)
+[![LinkedIn](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](http://www.github.com/jorgemf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgemf)
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![PyTorch](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/amazon_aws-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/google_cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+
+
+
+
